@@ -1,0 +1,4 @@
+mpi4py
+web3
+py-solc-x
+opencv-python
